@@ -14,7 +14,7 @@ I love bringing ideas to life through code and constantly improving my skills!
 
 📚 Always learning, creating, and growing!
 
-🔗 Check out my latest project: [Blog Web Application](https://github.com/kawther27/Bolog-Website)
+🔗 Check out my latest project: [Blog Web Application](https://github.com/kawther27/Bolog-website)
 
 ---
 
