@@ -23,7 +23,7 @@ Currently learning and growing through hands-on projects using **Node.js**, **Ex
 
 📫 **Contact Me**  
 - Portfolio: [kawtherkhlif.online](https://www.kawtherkhlif.online/)  
-- Email: kawtherkhlif.dev@gmail.com  
+- Email: kawtherkhlif20@gmail.com  
 - LinkedIn: [linkedin.com/in/kawtherkhlif](https://www.linkedin.com/in/kawtherkhlif)  
 
 ---
