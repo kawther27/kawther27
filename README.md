@@ -38,7 +38,7 @@ I enjoy transforming ideas into real projects using modern technologies and clea
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: [kawtherdev](https://[www.kawtherdev.com])  
+- 🌐 Portfolio: [kawtherdev](https://www.kawtherdev.com)  
 - ✉️ Email: kawtherkhlif20@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/kawtherkhlif](https://www.linkedin.com/in/kawther-khlif-107a61230/)  
 
