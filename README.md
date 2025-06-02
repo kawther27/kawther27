@@ -1,31 +1,47 @@
 # Hi there, I'm Kawther 👋
 
-I'm a passionate **web developer** based in Canada, focused on building creative, functional, and clean web applications.  
-Currently learning and growing through hands-on projects using **Node.js**, **Express.js**, **EJS**, and modern frontend technologies.
-
-🌱 **What I’m working on**  
-- Building full-stack web apps using Node.js and Express  
-- Designing stylish UI with Bootstrap and custom CSS  
-- Sharing my journey through blog-style personal projects  
-
-🧰 **Tech Stack**  
-- 💻 Frontend: HTML5, CSS3, Bootstrap, EJS  
-- 🛠️ Backend: Node.js, Express.js  
-- 🧪 Tools: Git, GitHub, VS Code  
-
-🚀 **Goals**  
-- Keep learning, building, and improving every day  
-- Land a full-time front-end or full-stack developer role  
-- Contribute to open-source and freelance projects on platforms like Upwork
-
-📎 **Check out my latest project**  
-👉 [Blog Web Application](https://github.com/kawther27/Blog-Website)
-
-📫 **Contact Me**  
-- Portfolio: [kawtherkhlif.online](https://www.kawtherkhlif.online/)  
-- Email: kawtherkhlif20@gmail.com  
-- LinkedIn: [linkedin.com/in/kawtherkhlif](https://www.linkedin.com/in/kawther-khlif-107a61230/)  
+I'm a passionate **full-stack web developer** based in Canada, focused on building creative, functional, and user-friendly web applications.  
+I enjoy transforming ideas into real projects using modern technologies and clean code practices.
 
 ---
 
-✨ _"Lover of clean code and creative solutions. Excited about tech and lifelong learning."_  
+## 🌱 What I’m working on
+
+- 🔧 Building full-stack apps with **Node.js**, **Express**, and **React**
+- 🎨 Designing responsive UIs using **Tailwind CSS**
+- 🌤️ Just released my [Weather React App](https://github.com/kawther27/weather-react-app) – a 7-day forecast dashboard with timezone support!
+
+---
+
+## 🧰 Tech Stack
+
+- 💻 **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React, EJS  
+- ⚙️ **Backend**: Node.js, Express.js  
+- 🧪 **Tools**: Git, GitHub, VS Code, REST APIs
+
+---
+
+## 🚀 Goals
+
+- Land a **full-time developer role** (front-end or full-stack)  
+- Contribute to open-source projects  
+- Build real solutions and share knowledge with others  
+
+---
+
+## 🔗 Check out my latest project
+
+[📦 Weather React App](https://github.com/kawther27/weather-react-app)  
+> Built with React, Tailwind CSS, and OpenWeather API – it shows real-time forecasts, timezone-aware local times, and clean UI.
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: [kawtherdev](https://[www.kawtherdev.com])  
+- ✉️ Email: kawtherkhlif20@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/kawtherkhlif](https://www.linkedin.com/in/kawther-khlif-107a61230/)  
+
+---
+
+_“I love clean code, elegant design, and continuous learning. Always building, always growing.”_
